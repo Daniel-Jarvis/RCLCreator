@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book>
+        <title lang="en">The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price>10.99</price>
+    </book>
+    <book>
+        <title lang="en">1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <price>8.99</price>
+    </book>
+    <book>
+        <title lang="es">Cien años de soledad</title>
+        <author>Gabriel García Márquez</author>
+        <year>1967</year>
+        <price>12.50</price>
+    </book>
+</bookstore>
