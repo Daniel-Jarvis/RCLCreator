@@ -33,5 +33,5 @@ void loadProperties(){
 }
 
 void validateProperties(){
-    //TODO: I still don't know what I want to do with this
+    //TODO: I still don't know what I want to do with this, update
 }
