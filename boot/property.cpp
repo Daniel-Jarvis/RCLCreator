@@ -31,3 +31,8 @@ void loadProperties(){
     }
     inFile.close();
 }
+
+void validateProperties()
+{
+    //TODO: figure out what exactly this method will be doing
+}
